@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+.venv
+.vscode
+.python-version
+
+data/exp8_materials_items.csv
+data/exp8_results_items_annotated.csv
+data/exp8.csv
+data/gpt35Turbo_results_iter4_temp0_zero.csv
+
+results
