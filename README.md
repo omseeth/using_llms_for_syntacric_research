@@ -11,4 +11,4 @@ Nececssary R packages can be installed with the provided R file.
 
 ## Discussion
 
-For a discussion of this project and their results, please consider: [Using LLMs for Syntactic Research](https://omseeth.github.io/) (Seeth 2024)
+For a discussion of this project and their results, please consider: [Using LLMs for Syntactic Research](https://omseeth.github.io/blog/2024/llms_syntactic_research/) (Seeth 2024)
